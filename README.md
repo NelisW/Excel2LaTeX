@@ -33,6 +33,8 @@ you plan to use the program frequently, you can save it in your addin directory
 and add it with **Tools**&rarr;**Add-Ins**. This way it will be loaded whenever Excel is 
 opened.
 
+`C:\Users\nwillers\AppData\Roaming\Microsoft\AddIns`
+
 Select the table to convert and hit the button **Convert Table to LaTeX**. You 
 will be given the option to save the result to a `.tex` file, or send it to the clipboard 
 (so you can paste it into your LaTeX editor). Hit the **Store** button to store the 
